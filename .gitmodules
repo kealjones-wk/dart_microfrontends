@@ -1,0 +1,12 @@
+[submodule "ss_experience"]
+	path = ss_experience
+	url = https://github.com/kealjones-wk/ss_experience.git
+[submodule "docs_experience"]
+	path = docs_experience
+	url = https://github.com/kealjones-wk/docs_experience.git
+[submodule "shell"]
+	path = shell
+	url = https://github.com/kealjones-wk/shell.git
+[submodule "shell_events"]
+	path = shell_events
+	url = https://github.com/kealjones-wk/shell_events.git
